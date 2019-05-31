@@ -1,0 +1,52 @@
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\FS_Picture_Import.exe.config
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\FS_Picture_Import.XML
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\FS_Picture_Import.exe
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\FS_Picture_Import.pdb
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\FSharp.Core.dll
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\System.ValueTuple.dll
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\FSharp.Core.xml
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\System.ValueTuple.xml
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\obj\Debug\FS_Picture_Import.fsprojAssemblyReference.cache
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\obj\Debug\FS_Picture_Import.fsproj.CopyComplete
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\obj\Debug\FS_Picture_Import.exe
+C:\Users\Ashehadeh\Desktop\FS_Picture_Import\obj\Debug\FS_Picture_Import.pdb
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\FS_Picture_Import.exe.config
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\FS_Picture_Import.XML
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\FS_Picture_Import.exe
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\FS_Picture_Import.pdb
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\FSharp.Core.dll
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\System.ValueTuple.dll
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\FSharp.Core.xml
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\System.ValueTuple.xml
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\obj\Debug\FS_Picture_Import.fsprojAssemblyReference.cache
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\obj\Debug\FS_Picture_Import.fsproj.CopyComplete
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\obj\Debug\FS_Picture_Import.exe
+C:\Users\Ashehadeh\OneDrive for Business\Apps\FSPictureImporter\obj\Debug\FS_Picture_Import.pdb
